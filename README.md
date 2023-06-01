@@ -6,11 +6,11 @@ this repository contains the implimentation of Linked Lists
 | ------------------ | ------------------------ |
 | Linked List        | "./1-Linked List"        |
 ## Files
-| DS                 | Folder                   |
+| File               | Content             |
 | ------------------ | ------------------------ |
-| header.c           | Containes all the functions used to manipulate the linked list        |
-| header.h           | Containes the used structurs and used functions' names                |
-| main.c             | Containes the full menu to use the funcstions                         |
+| header.c           | All the functions used to manipulate the linked list        |
+| header.h           | The used structurs and used functions' names                |
+| main.c             | The full menu to use the funcstions                         |
 
 
 
